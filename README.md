@@ -8,4 +8,4 @@
 
 [CSF](https://fenix.tecnico.ulisboa.pt/disciplinas/CSF51795/2017-2018/1-semestre)
 
-Projects Grade - 17.64/20 (18, 14.1, 20.0 and 18.5 respectively)
+Project Grade - 17.64/20 (18, 14.1, 20.0 and 18.5 respectively)
