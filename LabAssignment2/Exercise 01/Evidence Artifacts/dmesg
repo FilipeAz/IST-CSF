@@ -1,0 +1,95 @@
+Aug 10 13:33:56 localhost sendmail[3201]: h7AKXuZ03201: from=root, size=7196, class=0, nrcpts=1, msgid=<200308102033.h7AKXuZ03201@localhost.localdomain>, relay=root@localhost 
+Aug 10 13:33:56 localhost sendmail[3205]: h7AKXuM03205: from=root, size=7195, class=0, nrcpts=1, msgid=<200308102033.h7AKXuM03205@localhost.localdomain>, relay=root@localhost 
+Aug 10 13:40:01 localhost sendmail[3269]: h7AKe1E03269: from=root, size=255, class=0, nrcpts=1, msgid=<200308102040.h7AKe1E03269@localhost.localdomain>, relay=root@localhost
+Aug 10 13:40:01 localhost sendmail[3269]: h7AKe1E03269: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 13:50:00 localhost sendmail[4236]: h7AKo0d04236: from=root, size=255, class=0, nrcpts=1, msgid=<200308102050.h7AKo0d04236@localhost.localdomain>, relay=root@localhost
+Aug 10 13:50:00 localhost sendmail[4236]: h7AKo0d04236: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 14:00:00 localhost sendmail[4242]: h7AL00Q04242: from=root, size=255, class=0, nrcpts=1, msgid=<200308102100.h7AL00Q04242@localhost.localdomain>, relay=root@localhost
+Aug 10 14:00:00 localhost sendmail[4242]: h7AL00Q04242: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 14:10:00 localhost sendmail[4254]: h7ALA0w04254: from=root, size=255, class=0, nrcpts=1, msgid=<200308102110.h7ALA0w04254@localhost.localdomain>, relay=root@localhost
+Aug 10 14:10:00 localhost sendmail[4254]: h7ALA0w04254: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 14:14:01 localhost sendmail[4763]: h7ALE1t04763: from=apache, size=1300, class=0, nrcpts=1, msgid=<200308102114.h7ALE1t04763@localhost.localdomain>, relay=apache@localhost
+Aug 10 14:14:01 localhost sendmail[4768]: h7ALE1t04763: to=jijeljijel@yahoo.com, ctladdr=apache (48/48), delay=00:00:00, xdelay=00:00:00, mailer=esmtp, pri=31300, relay=mx1.mail.yahoo.com. [64.157.4.78], dsn=2.0.0, stat=Sent (ok dirdel)
+Aug 10 14:20:00 localhost sendmail[11277]: h7ALK0P11277: from=root, size=255, class=0, nrcpts=1, msgid=<200308102120.h7ALK0P11277@localhost.localdomain>, relay=root@localhost
+Aug 10 14:20:00 localhost sendmail[11277]: h7ALK0P11277: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 14:30:00 localhost sendmail[22197]: h7ALU0822197: from=root, size=255, class=0, nrcpts=1, msgid=<200308102130.h7ALU0822197@localhost.localdomain>, relay=root@localhost
+Aug 10 14:30:00 localhost sendmail[22197]: h7ALU0822197: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 14:40:01 localhost sendmail[640]: h7ALe1M00640: from=root, size=255, class=0, nrcpts=1, msgid=<200308102140.h7ALe1M00640@localhost.localdomain>, relay=root@localhost
+Aug 10 14:40:01 localhost sendmail[640]: h7ALe1M00640: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 14:50:00 localhost sendmail[11603]: h7ALo0V11603: from=root, size=255, class=0, nrcpts=1, msgid=<200308102150.h7ALo0V11603@localhost.localdomain>, relay=root@localhost
+Aug 10 14:50:00 localhost sendmail[11603]: h7ALo0V11603: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 15:00:01 localhost sendmail[22530]: h7AM01m22530: from=root, size=255, class=0, nrcpts=1, msgid=<200308102200.h7AM01m22530@localhost.localdomain>, relay=root@localhost
+Aug 10 15:00:01 localhost sendmail[22530]: h7AM01m22530: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 15:10:00 localhost sendmail[996]: h7AMA0H00996: from=root, size=255, class=0, nrcpts=1, msgid=<200308102210.h7AMA0H00996@localhost.localdomain>, relay=root@localhost
+Aug 10 15:10:00 localhost sendmail[996]: h7AMA0H00996: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 15:20:00 localhost sendmail[11915]: h7AMK0411915: from=root, size=255, class=0, nrcpts=1, msgid=<200308102220.h7AMK0411915@localhost.localdomain>, relay=root@localhost
+Aug 10 15:20:00 localhost sendmail[11915]: h7AMK0411915: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 15:30:00 localhost sendmail[22757]: h7AMU0l22757: from=root, size=255, class=0, nrcpts=1, msgid=<200308102230.h7AMU0l22757@localhost.localdomain>, relay=root@localhost
+Aug 10 15:30:00 localhost sendmail[22757]: h7AMU0l22757: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30255, dsn=2.0.0, stat=Sent
+Aug 10 15:30:30 localhost sendmail[23300]: h7AMUUn23300: from=apache, size=43, class=0, nrcpts=1, msgid=<200308102230.h7AMUUn23300@localhost.localdomain>, relay=apache@localhost
+Aug 10 15:30:31 localhost sendmail[23321]: h7AMUVC23321: from=apache, size=43, class=0, nrcpts=1, msgid=<200308102230.h7AMUVC23321@localhost.localdomain>, relay=apache@localhost
+Aug 10 15:32:33 localhost sendmail[25629]: h7AMWXH25629: from=root, size=8198, class=0, nrcpts=1, msgid=<200308102232.h7AMWXH25629@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 15:37:40 localhost sendmail[23320]: h7AMUUn23300: to=newptraceuser@yahoo.com, ctladdr=apache (48/48), delay=00:07:10, xdelay=00:07:10, mailer=esmtp, pri=30043, relay=mx4.mail.yahoo.com. [216.136.129.6], dsn=2.0.0, stat=Sent (ok dirdel)
+Aug 10 15:40:01 localhost sendmail[1319]: h7AMe1U01319: from=root, size=251, class=0, nrcpts=1, msgid=<200308102240.h7AMe1U01319@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 15:40:01 localhost sendmail[1319]: h7AMe1U01319: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 15:42:31 localhost sendmail[23331]: h7AMUVC23321: to=newptraceuser@yahoo.com, ctladdr=apache (48/48), delay=00:12:00, xdelay=00:12:00, mailer=esmtp, pri=30043, relay=mx4.mail.yahoo.com. [216.136.129.17], dsn=4.0.0, stat=Deferred: Connection timed out with mx4.mail.yahoo.com.
+Aug 10 15:43:43 localhost sendmail[25659]: h7AMWXH25629: to=skiZophrenia_siCk@yahoo.com, ctladdr=root (0/0), delay=00:11:10, xdelay=00:11:10, mailer=esmtp, pri=38198, relay=mx4.mail.yahoo.com. [216.136.129.6], dsn=5.0.0, stat=Service unavailable
+Aug 10 15:43:43 localhost sendmail[25659]: h7AMWXH25629: h7AMhhG25659: DSN: Service unavailable
+Aug 10 15:43:43 localhost sendmail[25659]: h7AMhhG25659: to=root, delay=00:00:00, xdelay=00:00:00, mailer=local, pri=38298, dsn=2.0.0, stat=Sent
+Aug 10 15:50:00 localhost sendmail[12190]: h7AMo0C12190: from=root, size=251, class=0, nrcpts=1, msgid=<200308102250.h7AMo0C12190@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 15:50:00 localhost sendmail[12190]: h7AMo0C12190: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 16:00:01 localhost sendmail[14907]: h7AN01014907: from=root, size=251, class=0, nrcpts=1, msgid=<200308102300.h7AN01014907@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 16:00:01 localhost sendmail[14907]: h7AN01014907: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 16:10:00 localhost sendmail[15179]: h7ANA0r15179: from=root, size=251, class=0, nrcpts=1, msgid=<200308102310.h7ANA0r15179@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 16:10:00 localhost sendmail[15179]: h7ANA0r15179: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 16:20:00 localhost sendmail[15185]: h7ANK0w15185: from=root, size=251, class=0, nrcpts=1, msgid=<200308102320.h7ANK0w15185@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 16:20:00 localhost sendmail[15185]: h7ANK0w15185: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 16:30:00 localhost sendmail[15191]: h7ANU0V15191: from=root, size=251, class=0, nrcpts=1, msgid=<200308102330.h7ANU0V15191@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 16:30:00 localhost sendmail[15191]: h7ANU0V15191: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 16:34:50 localhost sendmail[15194]: h7AMUVC23321: to=newptraceuser@yahoo.com, ctladdr=apache (48/48), delay=01:04:19, xdelay=00:00:00, mailer=esmtp, pri=120043, relay=mx2.mail.yahoo.com. [64.156.215.5], dsn=2.0.0, stat=Sent (ok dirdel)
+Aug 10 16:40:00 localhost sendmail[15198]: h7ANe0q15198: from=root, size=251, class=0, nrcpts=1, msgid=<200308102340.h7ANe0q15198@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 16:40:00 localhost sendmail[15198]: h7ANe0q15198: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 16:50:00 localhost sendmail[15204]: h7ANo0t15204: from=root, size=251, class=0, nrcpts=1, msgid=<200308102350.h7ANo0t15204@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 16:50:01 localhost sendmail[15204]: h7ANo0t15204: to=root, ctladdr=root (0/0), delay=00:00:01, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 17:00:00 localhost sendmail[15210]: h7B000p15210: from=root, size=251, class=0, nrcpts=1, msgid=<200308110000.h7B000p15210@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 17:00:00 localhost sendmail[15210]: h7B000p15210: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 17:10:00 localhost sendmail[15218]: h7B0A0415218: from=root, size=251, class=0, nrcpts=1, msgid=<200308110010.h7B0A0415218@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 17:10:00 localhost sendmail[15218]: h7B0A0415218: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 17:20:01 localhost sendmail[15224]: h7B0K1B15224: from=root, size=251, class=0, nrcpts=1, msgid=<200308110020.h7B0K1B15224@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 17:20:01 localhost sendmail[15224]: h7B0K1B15224: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 17:30:00 localhost sendmail[15230]: h7B0U0Z15230: from=root, size=251, class=0, nrcpts=1, msgid=<200308110030.h7B0U0Z15230@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 17:30:00 localhost sendmail[15230]: h7B0U0Z15230: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 17:40:00 localhost sendmail[15237]: h7B0e0n15237: from=root, size=251, class=0, nrcpts=1, msgid=<200308110040.h7B0e0n15237@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 17:40:00 localhost sendmail[15237]: h7B0e0n15237: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 17:50:00 localhost sendmail[15243]: h7B0o0i15243: from=root, size=251, class=0, nrcpts=1, msgid=<200308110050.h7B0o0i15243@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 17:50:00 localhost sendmail[15243]: h7B0o0i15243: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 18:00:00 localhost sendmail[15251]: h7B100l15251: from=root, size=251, class=0, nrcpts=1, msgid=<200308110100.h7B100l15251@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 18:00:00 localhost sendmail[15251]: h7B100l15251: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 18:10:01 localhost sendmail[15259]: h7B1A1j15259: from=root, size=251, class=0, nrcpts=1, msgid=<200308110110.h7B1A1j15259@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 18:10:01 localhost sendmail[15259]: h7B1A1j15259: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 18:20:00 localhost sendmail[15265]: h7B1K0u15265: from=root, size=251, class=0, nrcpts=1, msgid=<200308110120.h7B1K0u15265@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 18:20:00 localhost sendmail[15265]: h7B1K0u15265: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 18:30:00 localhost sendmail[15271]: h7B1U0S15271: from=root, size=251, class=0, nrcpts=1, msgid=<200308110130.h7B1U0S15271@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 18:30:00 localhost sendmail[15271]: h7B1U0S15271: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 18:40:01 localhost sendmail[15278]: h7B1e1N15278: from=root, size=251, class=0, nrcpts=1, msgid=<200308110140.h7B1e1N15278@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 18:40:01 localhost sendmail[15278]: h7B1e1N15278: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 18:50:00 localhost sendmail[15284]: h7B1o0p15284: from=root, size=251, class=0, nrcpts=1, msgid=<200308110150.h7B1o0p15284@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 18:50:00 localhost sendmail[15284]: h7B1o0p15284: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 19:00:00 localhost sendmail[15291]: h7B200Q15291: from=root, size=251, class=0, nrcpts=1, msgid=<200308110200.h7B200Q15291@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 19:00:00 localhost sendmail[15291]: h7B200Q15291: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 19:10:00 localhost sendmail[15299]: h7B2A0I15299: from=root, size=251, class=0, nrcpts=1, msgid=<200308110210.h7B2A0I15299@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 19:10:00 localhost sendmail[15299]: h7B2A0I15299: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 19:20:00 localhost sendmail[15305]: h7B2K0n15305: from=root, size=251, class=0, nrcpts=1, msgid=<200308110220.h7B2K0n15305@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 19:20:00 localhost sendmail[15305]: h7B2K0n15305: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 19:30:01 localhost sendmail[15311]: h7B2U1615311: from=root, size=251, class=0, nrcpts=1, msgid=<200308110230.h7B2U1615311@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 19:30:01 localhost sendmail[15311]: h7B2U1615311: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 19:40:00 localhost sendmail[15318]: h7B2e0C15318: from=root, size=251, class=0, nrcpts=1, msgid=<200308110240.h7B2e0C15318@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 19:40:00 localhost sendmail[15318]: h7B2e0C15318: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 19:50:00 localhost sendmail[15324]: h7B2o0U15324: from=root, size=251, class=0, nrcpts=1, msgid=<200308110250.h7B2o0U15324@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 19:50:00 localhost sendmail[15324]: h7B2o0U15324: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 20:00:01 localhost sendmail[15330]: h7B301015330: from=root, size=251, class=0, nrcpts=1, msgid=<200308110300.h7B301015330@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 20:00:01 localhost sendmail[15330]: h7B301015330: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 20:10:00 localhost sendmail[15338]: h7B3A0q15338: from=root, size=251, class=0, nrcpts=1, msgid=<200308110310.h7B3A0q15338@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 20:10:00 localhost sendmail[15338]: h7B3A0q15338: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent
+Aug 10 20:20:00 localhost sendmail[15344]: h7B3K0O15344: from=root, size=251, class=0, nrcpts=1, msgid=<200308110320.h7B3K0O15344@sbm79.dtc.apu.edu>, relay=root@localhost
+Aug 10 20:20:00 localhost sendmail[15344]: h7B3K0O15344: to=root, ctladdr=root (0/0), delay=00:00:00, xdelay=00:00:00, mailer=local, pri=30251, dsn=2.0.0, stat=Sent

